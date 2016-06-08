@@ -17,6 +17,17 @@ The first display using this platform is in the 8th Avenue lobby at the Google N
 ### Check out the examples 
 We've included 12 example apps written by Googlers and friends for the 8th Avenue lobby display in NYC. To check them out, install the [previewer](https://github.com/googlecreativelab/anypixel/tree/master/frontend/previewer) and run one of the [examples](https://github.com/googlecreativelab/anypixel/tree/master/frontend/examples).
 
+## Just DO this! in the same order:
+
+sudo npm install
+#PREVIEWER
+sudo npm install -g browserify
+sudo npm install -g https://anypixel-storage.appspot.com/npm/anypixel-previewer.tar.gz
+sudo npm run build
+preview
+
+
+
 ### Build your own app 
 Building your own app is easy with the Anypixel framework. To get started, check out the [framework documentation](https://github.com/googlecreativelab/anypixel/tree/master/frontend/framework) and the [example app](https://github.com/googlecreativelab/anypixel/tree/master/frontend/examples/getting-started):
 
