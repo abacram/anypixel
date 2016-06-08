@@ -24,6 +24,7 @@ sudo npm install
 sudo npm install -g browserify
 sudo npm install -g https://anypixel-storage.appspot.com/npm/anypixel-previewer.tar.gz
 sudo npm run build
+->FINALLY
 preview
 ```
 
